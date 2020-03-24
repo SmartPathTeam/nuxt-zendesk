@@ -1,5 +1,5 @@
 {
-  "name": "@dansmaculotte/nuxt-zendesk",
+  "name": "@smartpath/nuxt-zendesk",
   "version": "0.3.5",
   "description": "Nuxt.js module for Zendesk",
   "license": "MIT",
