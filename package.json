@@ -24,7 +24,7 @@
     "lib"
   ],
   "dependencies": {
-    "@dansmaculotte/vue-zendesk": "^0.3.4"
+    "vue-zendesk": "git+https://github.com/SmartPathTeam/vuetify-google-autocomplete"
   },
   "devDependencies": {
     "@babel/core": "latest",
