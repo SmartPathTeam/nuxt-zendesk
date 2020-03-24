@@ -10,7 +10,7 @@
     }
   ],
   "main": "lib/module.js",
-  "repository": "https://github.com/dansmaculotte/nuxt-zendesk",
+  "repository": "https://github.com/SmartPathTeam/nuxt-zendesk",
   "publishConfig": {
     "access": "public"
   },
